@@ -14,14 +14,13 @@ This React-based application allows users to search for movies and explore detai
   
 ## Introduction
 
-This project provides a user-friendly interface for searching and browsing movies.  It demonstrates the use of React components, asynchronous data fetching with `fetch` or `axios` (specify which you used), and state management to create a dynamic and interactive web application.  The app focuses on providing a smooth search experience and clear presentation of movie information.
+This project provides a user-friendly interface for searching and browsing movies.  It demonstrates the use of React components, asynchronous data fetching with `fetch` ), and state management to create a dynamic and interactive web application.  The app focuses on providing a smooth search experience and clear presentation of movie information.
 
 ## Features
 
 - **Movie Search:** Search for movies by title.
-- **Detailed Movie Information:** View details about each movie, including poster, title, year, and other relevant information from the OMDb API.  (Be specific about what details are shown.)
+- **Detailed Movie Information:** View details about each movie, including poster, title, year, and other relevant information from the OMDb API. 
 - **Responsive Design:**  The app is designed to be responsive and work well on different screen sizes (desktop, tablet, mobile).
-- **Loading State:**  A loading indicator is displayed while movie data is being fetched. (If implemented)
 - **Error Handling:**  The app handles API errors and displays appropriate messages to the user. (If implemented)
 - **No Results Handling:**  A message is displayed if no movies are found for a given search term. (If implemented)
 
@@ -30,8 +29,7 @@ This project provides a user-friendly interface for searching and browsing movie
 - React
 - Vite
 - OMDb API (http://www.omdbapi.com/)
-- (axios or fetch - specify which you used for HTTP requests)
-- (Any other libraries, e.g., react-router-dom, styled-components, material-ui)
+-  fetch
 
 ## Installation
 
@@ -62,4 +60,4 @@ This project provides a user-friendly interface for searching and browsing movie
    - Enter a movie title in the search bar and press Enter or click the search button.
 
 ## Screenshots
-
+[![Screenshot 1](Screenshot 1 "Screenshot 1")]("https://raw.githubusercontent.com/roshanrajadhikari/ReactJS-Movie-Search-App/refs/heads/main/screenshots/sc1.JPG")
