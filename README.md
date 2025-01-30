@@ -40,4 +40,25 @@ This project provides a user-friendly interface for searching and browsing movie
 1. **Clone the repository:**
 
    ```bash
-   git clone [invalid URL removed]
+   git clone https://github.com/roshanrajadhikari/ReactJS-Movie-Search-App.git
+
+2. **Navigate to project directory:**
+
+   ```bash
+   cd ReactJS-Movie-Search-App
+
+3. **Install dependencies:**
+
+   ```bash
+   npm install
+
+## Usages
+
+1. **Start the development server:**
+
+   ```bash
+   npm run dev
+
+2. **Open your browser:**
+   - The app will usually be available at http://localhost:5173 (or the port shown in your terminal).
+
