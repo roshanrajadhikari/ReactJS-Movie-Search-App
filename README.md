@@ -10,10 +10,8 @@ This React-based application allows users to search for movies and explore detai
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)  *(Optional - Add if you have screenshots)*
-- [Contributing](#contributing)
-- [License](#license)
-
+- [Screenshots](#screenshots)
+  
 ## Introduction
 
 This project provides a user-friendly interface for searching and browsing movies.  It demonstrates the use of React components, asynchronous data fetching with `fetch` or `axios` (specify which you used), and state management to create a dynamic and interactive web application.  The app focuses on providing a smooth search experience and clear presentation of movie information.
@@ -61,4 +59,7 @@ This project provides a user-friendly interface for searching and browsing movie
 
 2. **Open your browser:**
    - The app will usually be available at http://localhost:5173 (or the port shown in your terminal).
+   - Enter a movie title in the search bar and press Enter or click the search button.
+
+## Screenshots
 
