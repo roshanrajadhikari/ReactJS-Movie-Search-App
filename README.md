@@ -1,6 +1,7 @@
 # Movie Search App
 
 This React-based application allows users to search for movies and explore details about them.  Built with Vite for a fast and efficient development experience, the app leverages the OMDb API to fetch movie data.
+[Demo](https://roshanrajadhikari.github.io/ReactJS-Movie-Search-App/ "Demo")
 
 ## Table of Contents
 
