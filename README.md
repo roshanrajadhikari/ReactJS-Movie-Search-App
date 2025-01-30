@@ -60,4 +60,5 @@ This project provides a user-friendly interface for searching and browsing movie
    - Enter a movie title in the search bar and press Enter or click the search button.
 
 ## Screenshots
-![My Project Screenshot](screenshots/sc-1.JPG)
+![My Project Screenshot](screenshots/sc1.JPG)
+![My Project Screenshot](screenshots/sc2.JPG)
