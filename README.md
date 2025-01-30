@@ -1,8 +1,43 @@
-# React + Vite
+# Movie Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This React-based application allows users to search for movies and explore details about them.  Built with Vite for a fast and efficient development experience, the app leverages the OMDb API to fetch movie data.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Screenshots](#screenshots)  *(Optional - Add if you have screenshots)*
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+This project provides a user-friendly interface for searching and browsing movies.  It demonstrates the use of React components, asynchronous data fetching with `fetch` or `axios` (specify which you used), and state management to create a dynamic and interactive web application.  The app focuses on providing a smooth search experience and clear presentation of movie information.
+
+## Features
+
+- **Movie Search:** Search for movies by title.
+- **Detailed Movie Information:** View details about each movie, including poster, title, year, and other relevant information from the OMDb API.  (Be specific about what details are shown.)
+- **Responsive Design:**  The app is designed to be responsive and work well on different screen sizes (desktop, tablet, mobile).
+- **Loading State:**  A loading indicator is displayed while movie data is being fetched. (If implemented)
+- **Error Handling:**  The app handles API errors and displays appropriate messages to the user. (If implemented)
+- **No Results Handling:**  A message is displayed if no movies are found for a given search term. (If implemented)
+
+## Technologies Used
+
+- React
+- Vite
+- OMDb API (http://www.omdbapi.com/)
+- (axios or fetch - specify which you used for HTTP requests)
+- (Any other libraries, e.g., react-router-dom, styled-components, material-ui)
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone [invalid URL removed]
