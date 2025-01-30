@@ -22,8 +22,8 @@ This project provides a user-friendly interface for searching and browsing movie
 - **Movie Search:** Search for movies by title.
 - **Detailed Movie Information:** View details about each movie, including poster, title, year, and other relevant information from the OMDb API. 
 - **Responsive Design:**  The app is designed to be responsive and work well on different screen sizes (desktop, tablet, mobile).
-- **Error Handling:**  The app handles API errors and displays appropriate messages to the user. (If implemented)
-- **No Results Handling:**  A message is displayed if no movies are found for a given search term. (If implemented)
+- **Error Handling:**  The app handles API errors and displays appropriate messages to the user. 
+- **No Results Handling:**  A message is displayed if no movies are found for a given search term. 
 
 ## Technologies Used
 
