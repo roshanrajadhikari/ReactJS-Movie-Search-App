@@ -50,6 +50,8 @@ This project provides a user-friendly interface for searching and browsing movie
 
 3. **Environment File:**
    - Add api key in environment file (provided by OMDb API)
+   - Example
+   > VITE_REACT_APP_MOVIES_API_URL='http://www.omdbapi.com/?i=tt3896198&apikey=[YOUR API KEY]'
 
 ## Usages
 
