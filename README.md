@@ -10,7 +10,6 @@ This React-based application allows users to search for movies and explore detai
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
   
 ## Introduction
@@ -48,6 +47,9 @@ This project provides a user-friendly interface for searching and browsing movie
 
    ```bash
    npm install
+
+3. **Environment File:**
+   - Add api key in environment file (provided by OMDb API)
 
 ## Usages
 
